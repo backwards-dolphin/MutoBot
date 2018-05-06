@@ -1,0 +1,11 @@
+D:\Desktop\MutoBot\Muto\Muto\bin\Debug\netcoreapp2.0\Muto.deps.json
+D:\Desktop\MutoBot\Muto\Muto\bin\Debug\netcoreapp2.0\Muto.runtimeconfig.json
+D:\Desktop\MutoBot\Muto\Muto\bin\Debug\netcoreapp2.0\Muto.runtimeconfig.dev.json
+D:\Desktop\MutoBot\Muto\Muto\bin\Debug\netcoreapp2.0\Muto.dll
+D:\Desktop\MutoBot\Muto\Muto\obj\Debug\netcoreapp2.0\Muto.csprojResolveAssemblyReference.cache
+D:\Desktop\MutoBot\Muto\Muto\obj\Debug\netcoreapp2.0\Muto.csproj.CoreCompileInputs.cache
+D:\Desktop\MutoBot\Muto\Muto\obj\Debug\netcoreapp2.0\Muto.AssemblyInfoInputs.cache
+D:\Desktop\MutoBot\Muto\Muto\obj\Debug\netcoreapp2.0\Muto.AssemblyInfo.cs
+D:\Desktop\MutoBot\Muto\Muto\bin\Debug\netcoreapp2.0\Muto.pdb
+D:\Desktop\MutoBot\Muto\Muto\obj\Debug\netcoreapp2.0\Muto.dll
+D:\Desktop\MutoBot\Muto\Muto\obj\Debug\netcoreapp2.0\Muto.pdb

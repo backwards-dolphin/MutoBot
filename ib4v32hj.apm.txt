@@ -1,0 +1,32 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   .gitignore
+#	new file:   Muto/Muto.sln
+#	new file:   Muto/Muto/Modules/Pinger.cs
+#	new file:   Muto/Muto/Modules/Starter.cs
+#	new file:   Muto/Muto/Muto.csproj
+#	new file:   Muto/Muto/Program.cs
+#	new file:   Muto/Muto/bin/Debug/netcoreapp2.0/Muto.deps.json
+#	new file:   Muto/Muto/bin/Debug/netcoreapp2.0/Muto.dll
+#	new file:   Muto/Muto/bin/Debug/netcoreapp2.0/Muto.pdb
+#	new file:   Muto/Muto/bin/Debug/netcoreapp2.0/Muto.runtimeconfig.dev.json
+#	new file:   Muto/Muto/bin/Debug/netcoreapp2.0/Muto.runtimeconfig.json
+#	new file:   Muto/Muto/obj/Debug/netcoreapp2.0/Muto.AssemblyInfo.cs
+#	new file:   Muto/Muto/obj/Debug/netcoreapp2.0/Muto.AssemblyInfoInputs.cache
+#	new file:   Muto/Muto/obj/Debug/netcoreapp2.0/Muto.csproj.CoreCompileInputs.cache
+#	new file:   Muto/Muto/obj/Debug/netcoreapp2.0/Muto.csproj.FileListAbsolute.txt
+#	new file:   Muto/Muto/obj/Debug/netcoreapp2.0/Muto.csprojResolveAssemblyReference.cache
+#	new file:   Muto/Muto/obj/Debug/netcoreapp2.0/Muto.dll
+#	new file:   Muto/Muto/obj/Debug/netcoreapp2.0/Muto.pdb
+#	new file:   Muto/Muto/obj/Muto.csproj.nuget.cache
+#	new file:   Muto/Muto/obj/Muto.csproj.nuget.g.props
+#	new file:   Muto/Muto/obj/Muto.csproj.nuget.g.targets
+#	new file:   Muto/Muto/obj/project.assets.json
+#
+
