@@ -1,5 +1,4 @@
-## Muto Discord Bot
-### C# Version
+## Muto Discord Bot (C#)
 ---
 
 This project was an introductory application to familiarize myself more with C#. 
